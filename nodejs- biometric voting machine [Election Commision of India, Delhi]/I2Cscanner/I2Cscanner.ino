@@ -1,6 +1,6 @@
  // --------------------------------------
 // i2c_scanner
-//
+// 
 // Version 1
 //    This program (or code that looks like it)
 //    can be found in many places.

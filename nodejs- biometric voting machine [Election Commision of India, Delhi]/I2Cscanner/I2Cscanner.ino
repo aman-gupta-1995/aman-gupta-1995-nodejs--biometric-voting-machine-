@@ -4,7 +4,7 @@
 // Version 1 
 //    This program (or code that looks like it)   
 //    can be found in many places.  
-//    For example on the Arduino.cc forum. 
+//    For example on the Arduino.cc forum.  
 //    The original author is not know.   
 // Version 2, Juni 2012, Using Arduino 1.0.1
 //     Adapted to be as simple as possible by Arduino.cc user Krodal
@@ -19,7 +19,7 @@
 // Version 5, March 28, 2013
 //    As version 4, but address scans now to 127.
 //    A sensor seems to use address 120.
-// Version 6, November 27, 2015.
+// Version 6, November 27, 2015. 
 //    Added waiting for the Leonardo serial communication.
 // 
 //

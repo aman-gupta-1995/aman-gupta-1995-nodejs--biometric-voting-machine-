@@ -21,7 +21,7 @@
 //    A sensor seems to use address 120.
 // Version 6, November 27, 2015. 
 //    Added waiting for the Leonardo serial communication.
-// 
+//  
 //
 // This sketch tests the standard 7-bit addresses
 // Devices with higher bit address might not be seen properly.

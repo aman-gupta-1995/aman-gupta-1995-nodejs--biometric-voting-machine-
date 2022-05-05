@@ -30,7 +30,7 @@
 #include <Wire.h>
 
 
-void setup()
+void setup() 
 {
   Wire.begin();
 

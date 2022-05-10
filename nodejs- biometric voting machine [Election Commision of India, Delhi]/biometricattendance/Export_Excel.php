@@ -1,7 +1,7 @@
 <?php
 //Connect to database
 require'connectDB.php';
-
+ 
 $output = '';
 
 if(isset($_POST["To_Excel"])){

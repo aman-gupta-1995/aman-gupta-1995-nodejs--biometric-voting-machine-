@@ -4,7 +4,7 @@
   - Date:  27/4/2019
    -----------------------------------------------------------------------------
   This code created by Electronics Tech channel for 
-  the Biometric attendance project with NodeMCU.
+  the Biometric attendance project with NodeMCU. 
   Please read the comments for a better understanding. 
 
   The video: https://youtu.be/CPWBc4OErgM

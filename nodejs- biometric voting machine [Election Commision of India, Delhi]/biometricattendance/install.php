@@ -7,7 +7,7 @@
     
 	$conn = new mysqli($servername, $username, $password, $dbname);
 
-	// Create database
+	// Create database 
 	$sql = "CREATE DATABASE biometricattendace";
 	if ($conn->query($sql) === TRUE) {
 	    echo "Database created successfully";

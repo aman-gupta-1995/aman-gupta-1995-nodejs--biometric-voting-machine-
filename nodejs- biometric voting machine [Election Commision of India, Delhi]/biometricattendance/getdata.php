@@ -2,7 +2,7 @@
 //Connect to database
 require 'connectDB.php';
 
-if (isset($_POST['FingerID'])) {
+if (isset($_POST['FingerID'])) { 
     
     $fingerID = $_POST['FingerID'];
 

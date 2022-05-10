@@ -5,7 +5,7 @@
 //    This program (or code that looks like it)    
 //    can be found in many places.      
 //    For example on the Arduino.cc forum.      
-//    The original author is not know.       
+//    The original author is not know.        
 // Version 2, Juni 2012, Using Arduino 1.0.1 
 //     Adapted to be as simple as possible by Arduino.cc user Krodal  
 // Version 3, Feb 26  2013 

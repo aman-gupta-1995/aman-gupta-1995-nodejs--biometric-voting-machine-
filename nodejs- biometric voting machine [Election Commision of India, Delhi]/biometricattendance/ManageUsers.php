@@ -6,7 +6,7 @@
 <script>
   $(window).on("load resize ", function() {  
     var scrollWidth = $('.tbl-content').width() - $('.tbl-content table').width();
-    $('.tbl-header').css({'padding-right':scrollWidth});
+    $('.tbl-header').css({'padding-right':scrollWidth}); 
 }).resize();
 </script>
 <script src="https://code.jquery.com/jquery-3.3.1.js"

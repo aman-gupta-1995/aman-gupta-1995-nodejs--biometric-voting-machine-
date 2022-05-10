@@ -4,7 +4,7 @@ session_start();
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Users Logs</title>
+  <title>Users Logs</title> 
 <link rel="stylesheet" type="text/css" href="css/userslog.css"> 
 <script>  
   $(window).on("load resize ", function() {

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
+<head> 
 	<title>Manage Users</title>
 <link rel="stylesheet" type="text/css" href="css/manageusers.css">
 <script>

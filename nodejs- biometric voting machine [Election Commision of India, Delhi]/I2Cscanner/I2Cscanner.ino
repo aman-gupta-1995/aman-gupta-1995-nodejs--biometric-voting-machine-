@@ -10,7 +10,7 @@
 //     Adapted to be as simple as possible by Arduino.cc user Krodal  
 // Version 3, Feb 26  2013 
 //    V3 by louarnold
-// Version 4, March 3, 2013, Using Arduino 1.0.3
+// Version 4, March 3, 2013, Using Arduino 1.0.3 
 //    by Arduino.cc user Krodal.
 //    Changes by louarnold removed.
 //    Scanning addresses changed from 0...127 to 1...119,

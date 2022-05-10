@@ -5,7 +5,7 @@
    -----------------------------------------------------------------------------
   This code created by Electronics Tech channel for 
   the Biometric attendance project with NodeMCU.
-  Please read the comments for a better understanding.
+  Please read the comments for a better understanding. 
 
   The video: https://youtu.be/CPWBc4OErgM
    ---------------------------------------------------------------------------*/

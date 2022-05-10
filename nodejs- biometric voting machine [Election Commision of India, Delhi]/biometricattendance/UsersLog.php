@@ -5,7 +5,7 @@ session_start();
 <html>
 <head>
   <title>Users Logs</title> 
-<link rel="stylesheet" type="text/css" href="css/userslog.css"> 
+<link rel="stylesheet" type="text/css" href="css/userslog.css">  
 <script>  
   $(window).on("load resize ", function() {
     var scrollWidth = $('.tbl-content').width() - $('.tbl-content table').width();

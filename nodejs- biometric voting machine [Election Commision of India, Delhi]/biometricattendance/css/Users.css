@@ -5,7 +5,7 @@ h1{
   text-transform: uppercase;
   font-weight: 300;
   font-family: New Century Schoolbook, TeX Gyre Schola, serif;  
-  text-align: center;
+  text-align: center; 
   margin-bottom: 15px;  
 }
 table{

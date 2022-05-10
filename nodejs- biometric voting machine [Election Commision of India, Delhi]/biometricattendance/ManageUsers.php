@@ -2,7 +2,7 @@
 <html>
 <head> 
 	<title>Manage Users</title>
-<link rel="stylesheet" type="text/css" href="css/manageusers.css">
+<link rel="stylesheet" type="text/css" href="css/manageusers.css"> 
 <script>
   $(window).on("load resize ", function() {   
     var scrollWidth = $('.tbl-content').width() - $('.tbl-content table').width();

@@ -8,7 +8,7 @@ if(isset($_POST["To_Excel"])){
   
     if ( empty($_POST['date_sel'])) {
 
-        $Log_date = date("Y-m-d");
+        $Log_date = date("Y-m-d"); 
     }
     else if ( !empty($_POST['date_sel'])) {
 

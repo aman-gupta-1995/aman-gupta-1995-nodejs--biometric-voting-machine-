@@ -4,7 +4,7 @@ require'connectDB.php';
 
 // select passenger 
 if (isset($_GET['select'])) {
-
+ 
     $Finger_id = $_GET['Finger_id'];
 
     $sql = "SELECT fingerprint_select FROM users WHERE fingerprint_select=1";

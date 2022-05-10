@@ -5,7 +5,7 @@ require'connectDB.php';
 $output = '';
 
 if(isset($_POST["To_Excel"])){
-   
+    
     if ( empty($_POST['date_sel'])) {  
 
         $Log_date = date("Y-m-d"); 

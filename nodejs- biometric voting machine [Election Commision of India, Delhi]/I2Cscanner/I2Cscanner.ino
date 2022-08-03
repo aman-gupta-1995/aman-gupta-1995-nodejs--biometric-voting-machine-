@@ -66,7 +66,7 @@ void loop()
 
       nDevices++;
     }
-    else if (error==4) 
+    else if (error==4)
     {
       Serial.print("Unknown error at address 0x");
       if (address<16) 

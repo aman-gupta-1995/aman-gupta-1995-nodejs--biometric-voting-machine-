@@ -2,7 +2,7 @@
 // i2c_scanner
 // 
 // Version 1 
-//    This program (or code that looks like it)     
+//    This program (or code that looks like it)    
 //    can be found in many places.             
 //    For example on the Arduino.cc forum.         
 //    The original author is not know.             

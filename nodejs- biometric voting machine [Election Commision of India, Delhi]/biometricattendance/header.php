@@ -28,7 +28,7 @@ session_start();
 	    x.className += " responsive";
 	  } else {
 	    x.className = "topnav";
-	  }
+	  } 
 	}
 </script>
 

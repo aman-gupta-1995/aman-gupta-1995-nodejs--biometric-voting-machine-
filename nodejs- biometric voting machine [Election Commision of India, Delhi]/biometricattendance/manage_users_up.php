@@ -1,7 +1,7 @@
 <table cellpadding="0" cellspacing="0" border="0">
 <tbody>
 <?php
-  //Connect to database 
+  //Connect to database
   require'connectDB.php';  
   
     $sql = "SELECT * FROM users WHERE del_fingerid=0 ORDER BY id DESC";

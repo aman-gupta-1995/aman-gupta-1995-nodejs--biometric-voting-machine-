@@ -6,7 +6,7 @@
   
     $sql = "SELECT * FROM users WHERE del_fingerid=0 ORDER BY id DESC";
     $result = mysqli_stmt_init($conn);
-    if (!mysqli_stmt_prepare($result, $sql)) {
+    if (!mysqli_stmt_prepare($result, $sql)) { 
         echo '<p class="error">SQL Error</p>';
     }
     else{

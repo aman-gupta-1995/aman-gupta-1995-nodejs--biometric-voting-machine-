@@ -3,7 +3,7 @@
 <?php
   //Connect to database 
   require'connectDB.php';  
-
+ 
     $sql = "SELECT * FROM users WHERE del_fingerid=0 ORDER BY id DESC";
     $result = mysqli_stmt_init($conn);
     if (!mysqli_stmt_prepare($result, $sql)) {

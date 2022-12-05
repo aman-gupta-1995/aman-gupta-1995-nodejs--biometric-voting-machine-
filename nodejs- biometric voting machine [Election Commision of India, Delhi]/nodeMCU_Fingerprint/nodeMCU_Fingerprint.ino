@@ -1,12 +1,11 @@
 /* -----------------------------------------------------------------------------
    ---------------------------------------------------------------------------*/
-//*******************************libraries********************************
-#include <SPI.h> 
+
 #include <Wire.h> 
 #include <ESP8266WiFi.h>
 #include <SoftwareSerial.h> 
 #include <ESP8266WebServer.h>
-#include <ESP8266HTTPClient.h>
+#include <ESP8266HTTPClient.h> 
 #include <Adafruit_GFX.h>          //https://github.com/adafruit/Adafruit-GFX-Library
 #include <Adafruit_SSD1306.h>      //https://github.com/adafruit/Adafruit_SSD1306
 #include <Adafruit_Fingerprint.h>  //https://github.com/adafruit/Adafruit-Fingerprint-Sensor-Library
